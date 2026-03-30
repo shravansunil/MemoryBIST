@@ -1,6 +1,6 @@
 # Memory Built-In Self-Test (MBIST) on a Faulty SRAM Model
 
-> **Overview**: This design specification outlines a parameterized, fault-injectable Static Random-Access Memory (SRAM) model alongside a corresponding Memory Built-In Self-Test (MBIST) controller. The controller utilizes the industry-standard **March C-** algorithm to autonomously test the memory arrays and identify structural defects like stuck-at faults.
+> **Overview**: This design specification outlines a parameterized, fault-injectable Static Random-Access Memory (SRAM) model alongside a corresponding Memory Built-In Self-Test (MBIST) controller. The controller utilizes the industry-standard **March C-** algorithm to autonomously test the memory arrays and identify structural defects like stuck-at faults. This was done as a part of the Course VLSI Testing and Verification. 
 
 ---
 
